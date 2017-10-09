@@ -1,2 +1,2 @@
 # codingame
-My solutions for Codingame puzzles
+My usually quick and dirty solutions for Codingame puzzles. Right now includes all Easy and select Medium puzzles
